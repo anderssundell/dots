@@ -1,5 +1,1 @@
 % conda create -n r-env r-base
-% conda activate r-env
-(r-env) % conda install r-tidyverse        
-(r-env) % conda install r-ggpubr
-(r-env) % conda install r-RColorBrewer
