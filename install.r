@@ -1,1 +1,2 @@
-install.packages(c("tidyverse", "ggpubr", "RColorBrewer"))
+install.packages("tidyverse")
+library(tidyverse)
